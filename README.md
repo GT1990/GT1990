@@ -1,4 +1,4 @@
-<img src="[image.png](https://media.giphy.com/media/DCauEKbX85CCAyIF1U/giphy.gif)" width="100%" height="auto">
+<img src="https://media.giphy.com/media/DCauEKbX85CCAyIF1U/giphy.gif" width="100%" height="auto">
 
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
