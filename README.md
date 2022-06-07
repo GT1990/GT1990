@@ -35,17 +35,17 @@
   <br><br></a>
 
 <a  href="https://www.leetcode.com/gt1990" target="blank">
-  <img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="gt1990" style="width: 200px; height: 100px; object-fit: cover;" /><br>
+  <img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="gt1990" style="width: 200px; height: 100px; object-fit: cover;" /><br><br>
   
   - 💻 LeetCode: **I sharpen my skills daily by solving one new coding challenge a day on LeetCode**
   <br><br></a>
   
-  <a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9" target="blank"><img align="center" src="https://user-images.githubusercontent.com/24855472/52978716-760f2a00-33a0-11e9-9125-271e3f8b241a.jpg" alt="teamtreehouse techdegree certificate" style="width: 200px; height: 100px; object-fit: cover;"  /><br>
+  <a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9" target="blank"><img align="center" src="https://user-images.githubusercontent.com/24855472/52978716-760f2a00-33a0-11e9-9125-271e3f8b241a.jpg" alt="teamtreehouse techdegree certificate" style="width: 200px; height: 100px; object-fit: cover;"  /><br><br>
   
   - 📚 Certification: **View my Full Stack JavaScript Certification from the TreeHouse Techdegree Program**
   <br><br></a>
   
-  <a href="https://teamtreehouse.com/profiles/ahmadibrahim" target="blank"><img align="center" src="https://static.teamtreehouse.com/assets/marketing/opengraph/logo_facebook-5a7642409483233360d948ca4dd6840de0a6083475af4b047d452b77b00ca68a.png" alt="teamtreehouse profile" style="width: 200px; height: 100px; object-fit: cover;" /><br>
+  <a href="https://teamtreehouse.com/profiles/ahmadibrahim" target="blank"><img align="center" src="https://static.teamtreehouse.com/assets/marketing/opengraph/logo_facebook-5a7642409483233360d948ca4dd6840de0a6083475af4b047d452b77b00ca68a.png" alt="teamtreehouse profile" style="width: 200px; height: 100px; object-fit: cover;" /><br><br>
   
   - 📚 Education: **Take a look at the courses and languages I have learned at TreeHouse**
   <br><br></a>
