@@ -4,6 +4,9 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <br>
+
+## Table of Contents
+
 - [Table of Contents](#table-of-contents)
 - [Profiles:](#profiles)
 - [Connect:](#connect)
@@ -14,7 +17,6 @@
   - [Databases](#databases)
   - [Tools](#tools)
 - [Stats](#stats)
-## Table of Contents
 
 ## Profiles:
 
