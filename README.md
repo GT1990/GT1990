@@ -72,7 +72,7 @@
 
 ### My Stack: MERN
 
-<a href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="mongodb" height="70" width="auto"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" height="70" width="auto"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="70" width="auto"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" alt="nodejs" height="70" width="auto"/> </a>
+<a href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="mongodb" height="70" width="auto"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://www.mementotech.in/assets/images/icons/express.png" alt="express" height="70" width="auto"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="70" width="auto"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" alt="nodejs" height="70" width="auto"/> </a>
 
 ### Other
 
