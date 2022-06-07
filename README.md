@@ -50,7 +50,7 @@
 <tbody>
   <tr>
     <td  width="33%" height="auto"><a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9"  target="blank">BootCamp Certification:<br>View my Full Stack JavaScript Certification from the TreeHouse Techdegree Program</a></td>
-    <td  width="33%" height="auto"><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="blank"><h2>SoftwareCourses:</h2>Take a look at the courses and languages I have learned at TreeHouse</a></td>
+    <td  width="33%" height="auto"><h2><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="blank">Software Courses:</a></h2><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="blank">Take a look at the courses and languages I have learned at TreeHouse</a></td>
     <td  width="33%" height="auto"><a href=""  target="blank"></a></td>
   </tr>
 </tbody>
