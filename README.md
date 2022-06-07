@@ -16,6 +16,7 @@
 <h3 align="left">Checkout my Profiles:</h3>
 <p align="left">
 <a href="https://teamtreehouse.com/profiles/ahmadibrahim" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/a/a3/Treehouse%27s_logo_%28Jan_2015%29.png" alt="teamtreehouse profile" height="50" width="auto" /></a>
+- 📚 Education **Take a look at the courses and languages I have learned**
 
 <a href="https://linkedin.com/in/aigt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aigt1990" height="30" width="40" /></a>
 
