@@ -25,14 +25,14 @@
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"><img src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="Portfolio" width="200" height="100"></th>
+    <th width="200" height="100"><a href="https://gt1990.github.io/"><img src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="Portfolio" width="200" height="100"></a></th>
     <th class="tg-0pky"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="LinkedIn" width="200" height="100"></th>
     <th class="tg-0pky"><img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LeetCode" width="200" height="100"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">🗂 Portfolio: **My personal portfolio website covers examples of my work and some more info about me**</td>
+    <td width="200" height="auto"><a href="https://gt1990.github.io/">🗂 Portfolio: **My personal portfolio website covers examples of my work and some more info about me**</a></td>
     <td class="tg-0pky">Linkeddin</td>
     <td class="tg-0pky">Leetcode</td>
     <td class="tg-0pky"></td>
