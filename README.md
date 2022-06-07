@@ -14,7 +14,6 @@
 - ⚽️ Fun fact **I am a huge fan of Fútbol**
 
 <br>
-<hr />
 
 ## <h1>Profiles:</h1>
 
@@ -55,7 +54,6 @@
   </p>
 
 <br>
-<hr />
 
 ## <h1>Connect:</h1>
 
