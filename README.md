@@ -56,8 +56,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:ahmadaburabee3@gmail.com" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/04/Gmail-Transparent-Logo-1024x768.png" alt="aigt1990" height="40" width="50" margin-right="25px" /></a>
-<a href="https://linkedin.com/in/aigt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aigt1990" height="40" width="50" margin-right="25px" /></a><a href="https://twitter.com/aigt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aigt1990" height="40" width="50" margin-right="25px" /></a>
+<a href="mailto:ahmadaburabee3@gmail.com" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/04/Gmail-Transparent-Logo-1024x768.png" alt="aigt1990" height="40" width="50" style="margin-right:25px;" /></a>
+<a href="https://linkedin.com/in/aigt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aigt1990" height="40" width="50" style="margin-right:25px;" /></a><a href="https://twitter.com/aigt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aigt1990" height="40" width="50" style="margin-right:25px;" /></a>
 
 </p>
 
