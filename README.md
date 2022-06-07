@@ -25,16 +25,16 @@
 <table>
 <thead>
   <tr>
-    <th width="33%" height="100"><a href="https://gt1990.github.io/"  target="blank"><img src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="Portfolio" width="100%" height="auto"></a></th>
-    <th width="33%" height="auto"><a  href="https://linkedin.com/in/aigt1990" target="blank"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="LinkedIn" width="100%" height="auto"></a></th>
-    <th width="33%" height="auto"><a href="https://www.leetcode.com/gt1990" target="blank"><img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LeetCode" width="100%" height="auto"></a></th>
+    <th width="33%" height="100"><a href="https://gt1990.github.io/"  target="_blank"><img src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="Portfolio" width="100%" height="auto"></a></th>
+    <th width="33%" height="auto"><a  href="https://linkedin.com/in/aigt1990" target="_blank"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="LinkedIn" width="100%" height="auto"></a></th>
+    <th width="33%" height="auto"><a href="https://www.leetcode.com/gt1990" target="_blank"><img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LeetCode" width="100%" height="auto"></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td  width="33%" height="auto"><a href="https://gt1990.github.io/" target="blank">Portfolio:<br>My personal portfolio website covers examples of my work and some more info about me</a></td>
-    <td  width="33%" height="auto"><a  href="https://linkedin.com/in/aigt1990" target="blank">LinkedIn:<br> Connect with me on LinkedIn</a></td>
-    <td  width="33%" height="auto"><a href="https://www.leetcode.com/gt1990" target="blank">LeetCode:<br> I sharpen my skills daily by solving one new coding challenge a day on LeetCode</a></td>
+    <td  width="33%" height="auto"><a href="https://gt1990.github.io/" target="_blank">Portfolio:<br>My personal portfolio website covers examples of my work and some more info about me</a></td>
+    <td  width="33%" height="auto"><a  href="https://linkedin.com/in/aigt1990" target="_blank">LinkedIn:<br> Connect with me on LinkedIn</a></td>
+    <td  width="33%" height="auto"><a href="https://www.leetcode.com/gt1990" target="_blank">LeetCode:<br> I sharpen my skills daily by solving one new coding challenge a day on LeetCode</a></td>
   </tr>
 </tbody>
 </table>
@@ -42,16 +42,16 @@
 <table>
 <thead>
   <tr>
-    <th width="33%" height="100"><a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9"  target="blank"><img src="https://user-images.githubusercontent.com/24855472/52978716-760f2a00-33a0-11e9-9125-271e3f8b241a.jpg" alt="teamtreehouse techdegree certificate" width="100%" height="auto"></a></th>
-    <th width="33%" height="auto"><a  href="https://teamtreehouse.com/profiles/ahmadibrahim" target="blank"><img src="https://static.teamtreehouse.com/assets/marketing/opengraph/logo_facebook-5a7642409483233360d948ca4dd6840de0a6083475af4b047d452b77b00ca68a.png" alt="" width="100%" height="auto"></a></th>
+    <th width="33%" height="100"><a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9"  target="_blank"><img src="https://user-images.githubusercontent.com/24855472/52978716-760f2a00-33a0-11e9-9125-271e3f8b241a.jpg" alt="teamtreehouse techdegree certificate" width="100%" height="auto"></a></th>
+    <th width="33%" height="auto"><a  href="https://teamtreehouse.com/profiles/ahmadibrahim" target="_blank"><img src="https://static.teamtreehouse.com/assets/marketing/opengraph/logo_facebook-5a7642409483233360d948ca4dd6840de0a6083475af4b047d452b77b00ca68a.png" alt="" width="100%" height="auto"></a></th>
     <th width="33%" height="auto"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td  width="33%" height="auto"><a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9"  target="blank">BootCamp Certification:<br>View my Full Stack JavaScript Certification from the TreeHouse Techdegree Program</a></td>
-    <td  width="33%" height="auto"><h2><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="blank">Software Courses:</a></h2><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="blank">Take a look at the courses and languages I have learned at TreeHouse</a></td>
-    <td  width="33%" height="auto"><a href=""  target="blank"></a></td>
+    <td  width="33%" height="auto"><a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9"  target="_blank">BootCamp Certification:<br>View my Full Stack JavaScript Certification from the TreeHouse Techdegree Program</a></td>
+    <td  width="33%" height="auto"><h2><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="_blank">Software Courses:</a></h2><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="_blank">Take a look at the courses and languages I have learned at TreeHouse</a></td>
+    <td  width="33%" height="auto"><a href=""  target="_blank"></a></td>
   </tr>
 </tbody>
 </table>
@@ -64,8 +64,8 @@
 
 <p align="left">
 <br>
-<a href="mailto:ahmadaburabee3@gmail.com" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/04/Gmail-Transparent-Logo-1024x768.png" alt="aigt1990" height="40" width="50" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a>
-<a href="https://linkedin.com/in/aigt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aigt1990" height="40" width="50" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a><a href="https://twitter.com/aigt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aigt1990" height="40" width="50" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a>
+<a href="mailto:ahmadaburabee3@gmail.com" target="_blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/04/Gmail-Transparent-Logo-1024x768.png" alt="aigt1990" height="40" width="50" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a>
+<a href="https://linkedin.com/in/aigt1990" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aigt1990" height="40" width="50" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a><a href="https://twitter.com/aigt1990" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aigt1990" height="40" width="50" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a>
 
 </p>
 
