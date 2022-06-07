@@ -49,8 +49,8 @@
 </thead>
 <tbody>
   <tr>
-    <td  width="33%" height="auto"><a href=""  target="blank">Certification:<br>View my Full Stack JavaScript Certification from the TreeHouse Techdegree Program</a></td>
-    <td  width="33%" height="auto"><a href=""  target="blank">Education:<br>Take a look at the courses and languages I have learned at TreeHouse</a></td>
+    <td  width="33%" height="auto"><a href=""  target="blank">BootCamp Certification:<br>View my Full Stack JavaScript Certification from the TreeHouse Techdegree Program</a></td>
+    <td  width="33%" height="auto"><a href=""  target="blank"><label style="font-size: 2em;">Software</label>Courses:<br>Take a look at the courses and languages I have learned at TreeHouse</a></td>
     <td  width="33%" height="auto"><a href=""  target="blank"></a></td>
   </tr>
 </tbody>
