@@ -3,16 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Ibrahim</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **MongoDB**
-
-- 👨‍💻 All of my projects are available at [https://gt1990.github.io/](https://gt1990.github.io/)
-
-- 📫 How to reach me **ahmadaburabee3@gmail.com**
-
-- 📜 Know about my experiences [https://gt1990.github.io/#/resume](https://gt1990.github.io/#/resume)
-
-- ⚽️ Fun fact **I am a huge fan of Fútbol**
-
 <br>
 
 ## <h1>Profiles:</h1>
