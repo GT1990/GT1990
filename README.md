@@ -15,7 +15,6 @@
 
 <br>
 <hr />
-<br>
 <h1 align="left">Checkout my Profiles:</h1>
 <p align="left">
 
