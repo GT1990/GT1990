@@ -24,10 +24,16 @@
 - 🗂 Portfolio: **My personal portfolio website contains examples of my work and some more info about me**
   </a>
 
-<a href="https://linkedin.com/in/aigt1990" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="linkedin profile" height="200" width="auto" /></a>
+<a href="https://linkedin.com/in/aigt1990" target="blank">
+<div height="200" width="300">
+<img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="linkedin profile" style="width: 100%;height: 100%;object-fit: contain;" />
+</div>
+</a>
 
-<a href="https://www.leetcode.com/gt1990" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="gt1990" height="200" width="auto" />
-
+<a href="https://www.leetcode.com/gt1990" target="blank">
+<div height="200" width="300">
+<img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="gt1990" style="width: 100%;height: 100%;object-fit: contain;" />
+</div>
 - 💻 Practice: **I sharpen my skills daily by solving one new coding challenge a day on LeetCode**
   </a>
 
