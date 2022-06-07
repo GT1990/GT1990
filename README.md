@@ -32,11 +32,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">
-
-    - 🗂 Portfolio: **My personal portfolio website covers examples of my work and some more info about me**
-
-   </td>
+    <td class="tg-0pky">🗂 Portfolio: **My personal portfolio website covers examples of my work and some more info about me**</td>
     <td class="tg-0pky">Linkeddin</td>
     <td class="tg-0pky">Leetcode</td>
     <td class="tg-0pky"></td>
