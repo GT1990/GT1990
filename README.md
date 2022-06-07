@@ -17,7 +17,7 @@
 <p align="left">
 
 <a href="https://gt1990.github.io/" target="blank">
-<img align="center" src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="portfolio screenshot" height="100" width="auto" />
+<img align="center" src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="portfolio screenshot" height="200" width="auto" />
 
 - 🗂 Portfolio: **My personal portfolio website contains examples of my work and some more info about me**
   </a>
