@@ -25,17 +25,17 @@
 <table class="tg">
 <thead>
   <tr>
-    <th width="200" height="100"><a href="https://gt1990.github.io/"><img src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="Portfolio" width="200" height="100"></a></th>
-    <th class="tg-0pky"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="LinkedIn" width="200" height="100"></th>
-    <th class="tg-0pky"><img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LeetCode" width="200" height="100"></th>
+    <th width="200" height="100"><a href="https://gt1990.github.io/  target="blank""><img src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="Portfolio" width="200" height="100"></a></th>
+    <th class="tg-0pky"><a  href="https://linkedin.com/in/aigt1990" target="blank"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="LinkedIn" width="200" height="100"></a></th>
+    <th class="tg-0pky"><a href="https://www.leetcode.com/gt1990" target="blank"><img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LeetCode" width="200" height="100"></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td width="200" height="auto"><a href="https://gt1990.github.io/">🗂 Portfolio:<br>My personal portfolio website covers examples of my work and some more info about me</a></td>
-    <td class="tg-0pky">Linkeddin</td>
-    <td class="tg-0pky">Leetcode</td>
-    <td class="tg-0pky"></td>
+    <td width="200" height="auto"><a href="https://gt1990.github.io/  target="blank"">🗂 Portfolio:<br>My personal portfolio website covers examples of my work and some more info about me</a></td>
+    <td class="tg-0pky"><a  href="https://linkedin.com/in/aigt1990" target="blank">💻 LinkedIn:<br> Connect with me on LinkedIn</a></td>
+    <td class="tg-0pky"><a href="https://www.leetcode.com/gt1990" target="blank">Leetcode</a></td>
+    <td class="tg-0pky">💻 LeetCode:<br> I sharpen my skills daily by solving one new coding challenge a day on LeetCode</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -55,15 +55,6 @@
 </tbody>
 </table>
 
----
-
-<a href="https://gt1990.github.io/" target="blank" style="width: 300px; height: auto; overflow: hidden;">
-<img align="center" src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="portfolio screenshot" style="width: 200px; height: 100px;object-fit: cover;" /><div width="300px" style="overflow: hidden;">
-</div>
-</a>
-
-<a  href="https://linkedin.com/in/aigt1990" target="blank" style="width: 300px; height: auto; float: left; overflow: wrap; background-color: red;">
-<img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="linkedin profile" style="width: 200px; height: 100px;object-fit: cover;" /><br><br>
 <a href="https://www.leetcode.com/gt1990" target="blank">
 <img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="gt1990" style="width: 200px; height: 100px; object-fit: cover;" />
 </a>
