@@ -80,16 +80,16 @@
 
 ### Backend
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" alt="nodejs" height="70" width="auto"/> </a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="" target="_blank" rel="noreferrer"> <img src="https://www.mementotech.in/assets/images/icons/express.png" alt="express" height="70" width="auto"/> </a> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" alt="api" height="70" width="auto"/> </a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="70" width="auto"/> </a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70" width="auto"/> </a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="70" width="auto"/> </a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="70" width="auto"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" alt="nodejs" height="70" width="auto"/> </a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="" target="_blank" rel="noreferrer"> <img src="https://www.mementotech.in/assets/images/icons/express.png" alt="express" height="70" width="auto"/> </a> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" alt="api" height="70" width="auto"/> </a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="70" width="auto"/> </a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70" width="auto"/> </a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="70" width="auto"/> </a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="70" width="auto"/> </a>
 
 ### Databases
 
 <a href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="mongodb" height="70" width="auto"/> </a>
-
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="70" width="auto"/> </a>
-
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="70" width="auto"/> </a>
-
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="70" width="auto"/> </a>
 
 ### Tools
