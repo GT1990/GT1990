@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/w9HLfKirorlGgCgrKz/fullscreen)](https://giphy.com/gifs/w9HLfKirorlGgCgrKz/fullscreen)
+[![MasterHead](https://media.giphy.com/media/w9HLfKirorlGgCgrKz/giphy.gif)](https://media.giphy.com/media/w9HLfKirorlGgCgrKz/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
