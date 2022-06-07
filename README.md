@@ -25,23 +25,23 @@
 <table class="tg">
 <thead>
   <tr>
-    <th width="200" height="100"><a href="https://gt1990.github.io/  target="blank""><img src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="Portfolio" width="200" height="100"></a></th>
-    <th width="200" height="auto"><a  href="https://linkedin.com/in/aigt1990" target="blank"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="LinkedIn" width="200" height="100"></a></th>
-    <th width="200" height="auto"><a href="https://www.leetcode.com/gt1990" target="blank"><img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LeetCode" width="200" height="100"></a></th>
+    <th width="33%" height="100"><a href="https://gt1990.github.io/  target="blank""><img src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="Portfolio" width="200" height="100"></a></th>
+    <th width="33%" height="auto"><a  href="https://linkedin.com/in/aigt1990" target="blank"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="LinkedIn" width="200" height="100"></a></th>
+    <th width="33%" height="auto"><a href="https://www.leetcode.com/gt1990" target="blank"><img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LeetCode" width="200" height="100"></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td width="200" height="auto"><a href="https://gt1990.github.io/  target="blank"">🗂 Portfolio:<br>My personal portfolio website covers examples of my work and some more info about me</a></td>
-    <td width="200" height="auto"><a  href="https://linkedin.com/in/aigt1990" target="blank">💻 LinkedIn:<br> Connect with me on LinkedIn</a></td>
-    <td width="200" height="auto"><a href="https://www.leetcode.com/gt1990" target="blank">💻 LeetCode:<br> I sharpen my skills daily by solving one new coding challenge a day on LeetCode</a></td>
+    <td width="33%" height="auto"><a href="https://gt1990.github.io/  target="blank"">🗂 Portfolio:<br>My personal portfolio website covers examples of my work and some more info about me</a></td>
+    <td width="33%" height="auto"><a  href="https://linkedin.com/in/aigt1990" target="blank">💻 LinkedIn:<br> Connect with me on LinkedIn</a></td>
+    <td width="33%" height="auto"><a href="https://www.leetcode.com/gt1990" target="blank">💻 LeetCode:<br> I sharpen my skills daily by solving one new coding challenge a day on LeetCode</a></td>
   </tr>
   <tr>
-    <td width="200" height="auto"></td>
-    <td width="200" height="auto"></td>
-    <td width="200" height="auto"></td>
-    <td width="200" height="auto"></td>
-    <td width="200" height="auto"></td>
+    <td width="33%" height="auto"></td>
+    <td width="33%" height="auto"></td>
+    <td width="33%" height="auto"></td>
+    <td width="33%" height="auto"></td>
+    <td width="33%" height="auto"></td>
   </tr>
   <tr>
     <td width="200" height="auto"></td>
