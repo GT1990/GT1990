@@ -4,6 +4,17 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <br>
+- [Table of Contents](#table-of-contents)
+- [<h1>Profiles:</h1>](#h1profilesh1)
+- [<h1>Connect:</h1>](#h1connecth1)
+- [<h1>Skills:</h1>](#h1skillsh1)
+  - [MERN Stack](#mern-stack)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+  - [Databases](#databases)
+  - [Tools](#tools)
+- [Stats](#stats)
+## Table of Contents
 
 ## <h1>Profiles:</h1>
 
