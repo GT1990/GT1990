@@ -42,7 +42,7 @@
 <table>
 <thead>
   <tr>
-    <th width="33%" height="100"><a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9"  target="blank"><img src="https://user-images.githubusercontent.com/24855472/52978716-760f2a00-33a0-11e9-9125-271e3f8b241a.jpg" alt="teamtreehouse techdegree certificate" width="200" height="100"></a></th>
+    <th width="33%" height="100"><a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9"  target="blank"><img src="https://user-images.githubusercontent.com/24855472/52978716-760f2a00-33a0-11e9-9125-271e3f8b241a.jpg" alt="teamtreehouse techdegree certificate" width="100%" height="auto"></a></th>
     <th width="33%" height="auto"><a  href="https://teamtreehouse.com/profiles/ahmadibrahim" target="blank"><img src="https://static.teamtreehouse.com/assets/marketing/opengraph/logo_facebook-5a7642409483233360d948ca4dd6840de0a6083475af4b047d452b77b00ca68a.png" alt="" width="200" height="100"></a></th>
     <th width="33%" height="auto"></th>
   </tr>
