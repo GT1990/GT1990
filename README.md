@@ -24,7 +24,7 @@
 - 🗂 Portfolio: **My personal portfolio website contains examples of my work and some more info about me**
   <br>
   </a>
-  <a href="https://linkedin.com/in/aigt1990" target="blank" style="width: 300px; height: auto; float: left; overflow: wrap;">
+  <a href="https://linkedin.com/in/aigt1990" target="blank" style="width: 300px; height: auto; float: left; overflow: wrap; background-color: red;">
   <img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="linkedin profile" style="width: 300px;height: 200px;object-fit: contain;" />
 
 - 💻 LinkedIn: **Connect with me on LinkedIn**
