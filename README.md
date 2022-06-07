@@ -25,25 +25,16 @@
 <img align="center" src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="portfolio screenshot" style="width: 200px; height: 100px;object-fit: cover;" />
 <br>
 <br>
-
 <br><br></a>
-
 <a  href="https://linkedin.com/in/aigt1990" target="blank" style="width: 300px; height: auto; float: left; overflow: wrap; background-color: red;">
 <img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="linkedin profile" style="width: 200px; height: 100px;object-fit: cover;" /><br><br>
-
 <a href="https://www.leetcode.com/gt1990" target="blank">
   <img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="gt1990" style="width: 200px; height: 100px; object-fit: cover;" />
   <br>
   <br>
-  
-  
   <br><br></a>
-  
   <a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9" target="blank"><img align="center" src="https://user-images.githubusercontent.com/24855472/52978716-760f2a00-33a0-11e9-9125-271e3f8b241a.jpg" alt="teamtreehouse techdegree certificate" style="width: 200px; height: 100px; object-fit: cover;"  /><br><br>
-
-
 <br><br></a>
-
 <a href="https://teamtreehouse.com/profiles/ahmadibrahim" target="blank"><img align="center" src="https://static.teamtreehouse.com/assets/marketing/opengraph/logo_facebook-5a7642409483233360d948ca4dd6840de0a6083475af4b047d452b77b00ca68a.png" alt="teamtreehouse profile" style="width: 200px; height: 100px; object-fit: cover;" /><br><br>
 
 <br><br></a>
