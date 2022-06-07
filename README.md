@@ -26,13 +26,13 @@
 
 <a href="https://linkedin.com/in/aigt1990" target="blank">
 <div height="200px" width="300px">
-<img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="linkedin profile" style="object-fit: contain;" />
+<img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="linkedin profile" style="width: 200px;height: 300px;object-fit: cover;" />
 </div>
 </a>
 
 <a href="https://www.leetcode.com/gt1990" target="blank">
 <div height="200px" width="300px">
-<img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="gt1990" style="object-fit: contain;" />
+<img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="gt1990" style="width: 200px;height: 300px;object-fit: cover;" />
 </div>
 - 💻 Practice: **I sharpen my skills daily by solving one new coding challenge a day on LeetCode**
   </a>
