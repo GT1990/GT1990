@@ -26,13 +26,20 @@
 
 <a href="https://linkedin.com/in/aigt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aigt1990" height="30" width="40" /></a>
 
-<a href="https://www.leetcode.com/gt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gt1990" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gt1990" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="gt1990" height="30" width="40" />
 
 - 💻 Practice: **I sharpen my skills daily by solving one new coding challenge a day on LeetCode**
+  </a>
 
-<a href="https://teamtreehouse.com/profiles/ahmadibrahim" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/a/a3/Treehouse%27s_logo_%28Jan_2015%29.png" alt="teamtreehouse profile" height="50" width="auto" /></a>
+<a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9" target="blank"><img align="center" src="https://user-images.githubusercontent.com/24855472/52978716-760f2a00-33a0-11e9-9125-271e3f8b241a.jpg" alt="teamtreehouse techdegree certificate" height="50" width="auto" />
+
+- 📚 BootCamp: **View my Full Stack JavaScript Certification from the TreeHouse Techdegree Program**
+  </a>
+
+<a href="https://teamtreehouse.com/profiles/ahmadibrahim" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/a/a3/Treehouse%27s_logo_%28Jan_2015%29.png" alt="teamtreehouse profile" height="50" width="auto" />
 
 - 📚 Education: **Take a look at the courses and languages I have learned at TreeHouse**
+  </a>
 
 </p>
 
