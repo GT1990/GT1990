@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/DCauEKbX85CCAyIF1U/giphy.gif =x1500)](Link)
+![Ahmad Ibrahim!](https://media.giphy.com/media/DCauEKbX85CCAyIF1U/giphy.gif) "Ahmad Ibrahim")
 
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
