@@ -5,9 +5,9 @@
 
 <br>
 - [Table of Contents](#table-of-contents)
-- [<h1>Profiles:</h1>](#h1profilesh1)
-- [<h1>Connect:</h1>](#h1connecth1)
-- [<h1>Skills:</h1>](#h1skillsh1)
+- [Profiles:](#profiles)
+- [Connect:](#connect)
+- [Skills:](#skills)
   - [MERN Stack](#mern-stack)
   - [Frontend](#frontend)
   - [Backend](#backend)
@@ -16,7 +16,7 @@
 - [Stats](#stats)
 ## Table of Contents
 
-## <h1>Profiles:</h1>
+## Profiles:
 
 <p align="left">
 <br>
@@ -56,7 +56,7 @@
 
 <br>
 
-## <h1>Connect:</h1>
+## Connect:
 
 <p align="left">
 <br>
@@ -67,7 +67,7 @@
 
 <br>
 
-## <h1>Skills:</h1>
+## Skills:
 
 <p align="left"><br>
 
