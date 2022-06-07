@@ -15,13 +15,20 @@
 
 <h3 align="left">Checkout my Profiles:</h3>
 <p align="left">
-<a href="https://teamtreehouse.com/profiles/ahmadibrahim" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/a/a3/Treehouse%27s_logo_%28Jan_2015%29.png" alt="teamtreehouse profile" height="50" width="auto" /></a>
 
-- 📚 Education **Take a look at the courses and languages I have learned**
+<a href="https://gt1990.github.io/" target="blank"><img align="center" src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="portfolio screenshot" height="50" width="auto" /></a>
+
+- 🗂 Portfolio: **My personal portfolio website contains examples of my work and some more info about me**
 
 <a href="https://linkedin.com/in/aigt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aigt1990" height="30" width="40" /></a>
 
 <a href="https://www.leetcode.com/gt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gt1990" height="30" width="40" /></a>
+
+- 💻 Practice: **I sharpen my skills daily by solving one new coding challenge a day on LeetCode**
+
+<a href="https://teamtreehouse.com/profiles/ahmadibrahim" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/a/a3/Treehouse%27s_logo_%28Jan_2015%29.png" alt="teamtreehouse profile" height="50" width="auto" /></a>
+
+- 📚 Education: **Take a look at the courses and languages I have learned at TreeHouse**
 
 </p>
 
