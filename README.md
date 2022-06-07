@@ -34,8 +34,10 @@
 - 💻 LinkedIn: **Connect with me on LinkedIn**
   <br><br></a>
 
-<a  href="https://www.leetcode.com/gt1990" target="blank">
-  <img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="gt1990" style="width: 200px; height: 100px; object-fit: cover;" /><br><br>
+<a href="https://www.leetcode.com/gt1990" target="blank">
+  <img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="gt1990" style="width: 200px; height: 100px; object-fit: cover;" />
+  <br>
+  <br>
   
   - 💻 LeetCode: **I sharpen my skills daily by solving one new coding challenge a day on LeetCode**
   <br><br></a>
