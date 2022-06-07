@@ -16,10 +16,10 @@
 <br>
 <hr />
 
-## <h1>Profiles</h1>
+## <h1>Profiles:</h1>
 
 <p align="left">
-
+<br><br>
 <a href="https://gt1990.github.io/" target="blank" style="width: 300px; height: auto; overflow: hidden;">
 <img align="center" src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="portfolio screenshot" style="width: 200px; height: 100px;object-fit: cover;" /><br>
 
