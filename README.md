@@ -32,7 +32,7 @@
 </thead>
 <tbody>
   <tr>
-    <td width="200" height="auto"><a href="https://gt1990.github.io/">🗂 Portfolio: **My personal portfolio website covers examples of my work and some more info about me**</a></td>
+    <td width="200" height="auto"><a href="https://gt1990.github.io/">🗂 Portfolio: <br>My personal portfolio website covers examples of my work and some more info about me</a></td>
     <td class="tg-0pky">Linkeddin</td>
     <td class="tg-0pky">Leetcode</td>
     <td class="tg-0pky"></td>
