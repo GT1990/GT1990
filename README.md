@@ -15,7 +15,7 @@
 
 <h3 align="left">Checkout my Profiles:</h3>
 <p align="left">
-<a href="https://teamtreehouse.com/profiles/ahmadibrahim" target="blank"><img align="center" src="https://static.teamtreehouse.com/assets/logo-232a207b24bcb8ab1fba7c1d85467f71d7b2d010d427c859987ed641706f45d9.png" alt="teamtreehouse profile" height="30" width="40" /></a>
+<a href="https://teamtreehouse.com/profiles/ahmadibrahim" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/193-1939080_tree-house-logo-teamtreehouse-logo-hd-png-download.png" alt="teamtreehouse profile" height="30" width="auto" /></a>
 
 <a href="https://linkedin.com/in/aigt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aigt1990" height="30" width="40" /></a>
 
