@@ -16,7 +16,7 @@
 <br>
 <hr />
 <h1 align="left">Checkout my Profiles:</h1>
-<p style="width: 100%; height: auto; float: left;">
+<p style="width: 100%; height: auto; float: left; background-color: red;">
 
 <a href="https://gt1990.github.io/" target="blank" style="width: 300px; height: auto; float: left; overflow: wrap;">
 <img align="center" src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="portfolio screenshot" style="width: 300px;height: 200px;object-fit: contain;" />
