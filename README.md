@@ -15,7 +15,9 @@
 
 <br>
 <hr />
-<h2 align="left">Profiles:</h2>
+
+## Profiles:
+
 <p align="left">
 
 <a href="https://gt1990.github.io/" target="blank" style="width: 300px; height: auto; overflow: hidden;">
