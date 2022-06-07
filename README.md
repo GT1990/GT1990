@@ -49,9 +49,9 @@
 </thead>
 <tbody>
   <tr>
-    <td  align="left" width="33%" height="auto"><h3><a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9"  target="_blank">BootCamp Certification:</a></h3><a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9"  target="_blank">- View my Full Stack JavaScript Certification from the TreeHouse Techdegree Program</a></td>
-    <td align="left"  width="33%" height="auto"><h3><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="_blank">Software Courses:</a></h3><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="_blank">- Take a look at the courses and languages I have learned at TreeHouse</a></td>
-    <td  align="left" width="33%" height="auto"><a href=""  target="_blank"></a></td>
+    <td  style="vertical-align:top" width="33%" height="auto"><h3><a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9"  target="_blank">BootCamp Certification:</a></h3><a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9"  target="_blank">- View my Full Stack JavaScript Certification from the TreeHouse Techdegree Program</a></td>
+    <td style="vertical-align:top"  width="33%" height="auto"><h3><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="_blank">Software Courses:</a></h3><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="_blank">- Take a look at the courses and languages I have learned at TreeHouse</a></td>
+    <td  style="vertical-align:top" width="33%" height="auto"><a href=""  target="_blank"></a></td>
   </tr>
 </tbody>
 </table>
