@@ -5,9 +5,8 @@
 
 <br>
 
-## Table of Contents
+<h2>Table of Contents</h2>
 
-- [Table of Contents](#table-of-contents)
 - [Profiles:](#profiles)
 - [Connect:](#connect)
 - [Skills:](#skills)
