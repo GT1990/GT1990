@@ -13,7 +13,10 @@
 
 - ⚽️ Fun fact **I am a huge fan of Fútbol**
 
-<h3 align="left">Checkout my Profiles:</h3>
+<br>
+<hr />
+<br>
+<h1 align="left">Checkout my Profiles:</h1>
 <p align="left">
 
 <a href="https://gt1990.github.io/" target="blank">
