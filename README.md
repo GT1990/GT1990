@@ -124,6 +124,8 @@
 
 <br><br><br>
 
+## Stats
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gt1990&show_icons=true&locale=en" alt="gt1990" /></p>
 
 <br><br><br>
