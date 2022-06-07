@@ -18,20 +18,18 @@
 <h1 align="left">Checkout my Profiles:</h1>
 <p align="left">
 
-<a href="https://gt1990.github.io/" target="blank">
+<a href="https://gt1990.github.io/" target="blank" style="width: 300px; height: auto; float: left;">
 <img align="center" src="https://media-exp2.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1655222400&v=beta&t=WFLVnQa9nfHQFWteagB1BRh_9djWnBvYu9b3TTLBEIE" alt="portfolio screenshot" style="width: 300px;height: 200px;object-fit: contain;" />
 
 - 🗂 Portfolio: **My personal portfolio website contains examples of my work and some more info about me**
   <br>
   </a>
-  <br>
-  <a href="https://linkedin.com/in/aigt1990" target="blank">
+  <a href="https://linkedin.com/in/aigt1990" target="blank" style="width: 300px; height: auto; float: left;>
   <img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="linkedin profile" style="width: 300px;height: 200px;object-fit: contain;" />
 
 - 💻 LinkedIn: **Connect with me on LinkedIn**
   <br>
   </a>
-  <br>
   <a href="https://www.leetcode.com/gt1990" target="blank">
   <img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="gt1990" style="width: 300px;height: 200px;object-fit: contain;" />
 
