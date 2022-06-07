@@ -57,7 +57,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:ahmadaburabee3@gmail.com" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" alt="aigt1990" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aigt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aigt1990" height="30" width="40" /></a><a href="https://twitter.com/aigt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aigt1990" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aigt1990" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/04/Gmail-Transparent-Logo-1024x768.png" alt="gmail" height="30" width="40" /></a><a href="https://twitter.com/aigt1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aigt1990" height="30" width="40" /></a>
 
 </p>
 
