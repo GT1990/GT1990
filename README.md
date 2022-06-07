@@ -32,9 +32,9 @@
 </thead>
 <tbody>
   <tr>
-    <td  width="33%" height="auto"><a href="https://gt1990.github.io/" target="_blank">Portfolio:<br>My personal portfolio website covers examples of my work and some more info about me</a></td>
-    <td  width="33%" height="auto"><a  href="https://linkedin.com/in/aigt1990" target="_blank">LinkedIn:<br> Connect with me on LinkedIn</a></td>
-    <td  width="33%" height="auto"><a href="https://www.leetcode.com/gt1990" target="_blank">LeetCode:<br> I sharpen my skills daily by solving one new coding challenge a day on LeetCode</a></td>
+    <td  width="33%" height="auto"><h3><a href="https://gt1990.github.io/" target="_blank">Portfolio:</a></h3><a href="https://gt1990.github.io/" target="_blank">- My personal portfolio website covers examples of my work and some more info about me</a></td>
+    <td  width="33%" height="auto"><h3><a href="https://linkedin.com/in/aigt1990" target="_blank">LinkedIn:</a></h3><a href="https://linkedin.com/in/aigt1990" target="_blank">- Connect with me on LinkedIn</a></td>
+    <td  width="33%" height="auto"><h3><a href="https://www.leetcode.com/gt1990" target="_blank">LeetCode:</a></h3><a href="https://www.leetcode.com/gt1990" target="_blank">- I sharpen my skills daily by solving one new coding challenge a day on LeetCode</a></td>
   </tr>
 </tbody>
 </table>
@@ -49,8 +49,8 @@
 </thead>
 <tbody>
   <tr>
-    <td  width="33%" height="auto"><a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9"  target="_blank">BootCamp Certification:<br>View my Full Stack JavaScript Certification from the TreeHouse Techdegree Program</a></td>
-    <td  width="33%" height="auto"><h3><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="_blank">Software Courses:</a></h3><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="_blank">Take a look at the courses and languages I have learned at TreeHouse</a></td>
+    <td  width="33%" height="auto"><h3><a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9"  target="_blank">BootCamp Certification:</a></h3><a href="https://www.credential.net/d879c203-d9ff-472b-9fef-b00d2a758dc6#gs.2ge1s9"  target="_blank">- View my Full Stack JavaScript Certification from the TreeHouse Techdegree Program</a></td>
+    <td  width="33%" height="auto"><h3><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="_blank">Software Courses:</a></h3><a href="https://teamtreehouse.com/profiles/ahmadibrahim"  target="_blank">- Take a look at the courses and languages I have learned at TreeHouse</a></td>
     <td  width="33%" height="auto"><a href=""  target="_blank"></a></td>
   </tr>
 </tbody>
