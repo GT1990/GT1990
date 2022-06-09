@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/DCauEKbX85CCAyIF1U/giphy.gif" width="100%" height="auto">
+<img src="https://media.giphy.com/media/u42bEolF6g7FpMq6Cq/giphy.gif" width="100%" height="auto">
 
 <h1 align="center">Hi 👋, I'm Ahmad Ibrahim</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
