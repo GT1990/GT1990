@@ -25,7 +25,7 @@
 <table>
 <thead>
   <tr>
-    <th width="50%" height="100"><a href="https://gt1990.github.io/"  target="_blank"><img src="https://drive.google.com/file/d/1dyc0tAh1VX-zLJ8K7PktjQkabsL9ET7V/view" alt="Portfolio" width="100%" height="auto"></a></th>
+    <th width="50%" height="100"><a href="https://gt1990.github.io/"  target="_blank"><img src="https://drive.google.com/thumbnail?id=1dyc0tAh1VX-zLJ8K7PktjQkabsL9ET7V" alt="Portfolio" width="100%" height="auto"></a></th>
     <th width="50%" height="auto"><a  href="https://linkedin.com/in/aigt1990" target="_blank"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="LinkedIn" width="100%" height="auto"></a></th>
   </tr>
 </thead>
