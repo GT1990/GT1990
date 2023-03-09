@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/u42bEolF6g7FpMq6Cq/giphy.gif" width="100%" height="auto">
 
 <h1 align="center">Hi 👋, I'm Ahmad Ibrahim</h1>
-<h3 align="center">A Full Stack Software Developer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 <br>
 
