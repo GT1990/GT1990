@@ -113,11 +113,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="#" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="70" width="auto"/> </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<a href="#" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70" width="auto"/> </a>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<a href="#" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="70" width="auto"/> </a>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<a href="#" target="_blank" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="70" width="auto"/> </a>
+<a href="#" target="_blank" > <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nextjs" height="70" width="auto"/> </a>
 
 ### Databases
 
@@ -141,14 +137,18 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="#" target="_blank" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="70" width="auto"/> </a>
 
+<!-- Jira -->
+
+<a href="#" target="_blank" > <img src="https://25322853.fs1.hubspotusercontent-eu1.net/hub/25322853/hubfs/STAGIL_January2022/Images/jira-software-logo-jira-logo-hd-png.png?width=360&name=jira-software-logo-jira-logo-hd-png.png" alt="jira" height="70" width="auto"/> </a>
+
  </p>
 
 <br><br><br>
 
-## Stats
+<!-- ## Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gt1990&show_icons=true&locale=en" alt="gt1990" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gt1990&" alt="gt1990" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gt1990&" alt="gt1990" /></p> -->
