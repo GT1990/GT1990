@@ -136,13 +136,7 @@
 <a href="#" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="70" width="auto"/> </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="#" target="_blank" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="70" width="auto"/> </a>
-
-<!-- Jira -->
-
 <a href="#" target="_blank" > <img src="https://25322853.fs1.hubspotusercontent-eu1.net/hub/25322853/hubfs/STAGIL_January2022/Images/jira-software-logo-jira-logo-hd-png.png?width=360&name=jira-software-logo-jira-logo-hd-png.png" alt="jira" height="70" width="auto"/> </a>
-
-<!-- Slack -->
-
 <a href="#" target="_blank" > <img src="https://user-images.githubusercontent.com/5147537/54070671-0a173780-4263-11e9-8946-09ac0e37d8c6.png" alt="slack" height="70" width="auto"/> </a>
 
  </p>
