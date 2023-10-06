@@ -25,7 +25,7 @@
 <table>
 <thead>
   <tr>
-    <th width="50%" height="100"><a href="https://gt1990.github.io/"  target="_blank"><img src="https://media.licdn.com/dms/image/C562DAQEGrfBjCw1LHA/profile-treasury-image-shrink_800_800/0/1654386571013?e=1678946400&v=beta&t=6alq6nH4WGbbY6Sz16LJmrkVyOlU61oU3YAfUNB7TuA" alt="Portfolio" width="100%" height="auto"></a></th>
+    <th width="50%" height="100"><a href="https://gt1990.github.io/"  target="_blank"><img src="https://media.licdn.com/dms/image/D562DAQFdnrGTZ30Uuw/profile-treasury-image-shrink_800_800/0/1693539408049?e=1697176800&v=beta&t=iusKQVU3vcvYbPOrwG9AeS718g-a-XRFcyn62uvl-Zk" alt="Portfolio" width="100%" height="auto"></a></th>
     <th width="50%" height="auto"><a  href="https://linkedin.com/in/aigt1990" target="_blank"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="LinkedIn" width="100%" height="auto"></a></th>
   </tr>
 </thead>
